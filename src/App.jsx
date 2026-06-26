@@ -374,7 +374,7 @@ function App() {
       <nav className="sidebar">
         <div className="sidebar-brand">
           <Droplet size={28} color="red" fill="red" />
-          <h2>RaktSetu</h2>
+          <h2>RaktConnect</h2>
         </div>
 
         <ul className="sidebar-menu">
